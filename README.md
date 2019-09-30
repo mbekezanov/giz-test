@@ -28,7 +28,9 @@
  * Водитель
     * Категория С
     * Категория В
+ ---
  #####4.Skills11
+ ---
  Наименование | Описание
  -------------| --------
  sint, tempore! Consequatur | sint, tempore! Consequatur
